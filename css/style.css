@@ -15,6 +15,10 @@
 
 /* general */
 
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
 .container{
     max-width: 1280px;
     margin: auto;
@@ -28,12 +32,13 @@
 
 h2{
     text-transform: uppercase;
-    font-size: 12px;
-    font-weight: 900;
+    font-size: 14px;
+    font-weight: 700;
 }
 
 h5{
     text-transform: capitalize;
+    font-weight: 300;
 }
 
 /* common */
