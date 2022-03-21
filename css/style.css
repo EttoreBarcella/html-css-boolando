@@ -52,6 +52,9 @@ h5{
     width: 100%;
 }
 
+img{
+    display: block;
+}
 
 .col{
     float: left;
