@@ -106,11 +106,7 @@ img{
 
 /* hover */
 
-.product:hover .product-wishlist{
-    display: block;
-}
-
-.product .product-img-2 {
+.product .product-img-2 { 
     display: none;
 }
 
